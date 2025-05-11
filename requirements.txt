@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+pytesseract
+pillow
+streamlit-webrtc
+speechrecognition
+pyaudio
+pymongo
+langchain
+langchain-community
+pymongo
+google-generativeai
+groq
+streamlit
+python-dotenv

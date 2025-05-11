@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "heroic-outpost-457013-h5",
+  "private_key_id": "06f598c423e5991366f0ffb02723b2b8c3ad3b25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjAcfHQoD6T79V\n2muUVDs9dar/xYG95XBSktoRJ9Z0ps+4+zD/2LN1iWLU5ssN5fxOO1A+CH7MaG0K\ngT4XXw9K4AgaC4TxSl1Ib1rtFuJgxg9srKYzcDHUo6r8y6mmUaoMycPZhYeRBoJY\nnH0vGh0vU2JR2cFvApg1tG6E/sJOC//2fLao8XANyp9RSOK3ykHQGNDdjZEL/aZ1\n5K+pFDzZY9c5ag7V8HqiPDPYHuXCf3DdwCImbYSUHOGhJdxYTUjd6QQU1LBWo2FQ\nBY7NjjD4ys3T/dVqX2qNSMrHBaGxnW/11uhtkYaXuvKcu4GXNNEeyx8JVygyJaJB\nz3QtlL4bAgMBAAECggEASGw+fOtSM8myfOT40nNHDRYXzo8IE/n5qlZwnO2NRV0c\nw2LcYJuVsYd50Puqx43av2i78naKYZNlSmcuVI1+1v//hbOsH8D+XsgsBZz57y7x\nJ9YzFhESzMjEme8t+kJukrLiOWkY9aNSfYu7goX9zqX3Ja7nwA9fWS7t3Z9bhUND\n+83lEMenwxr41nok+4gaxGwTBDo8Ye55dsSPvrzMiRNQwLV3cAoxyNyp2a/yJhx7\nvukGEOc0on8loIcO+FGOmwXq8Yop0bg7yQuMPAPzKAtHVVvBd/8aTtcH0cv69HkM\nA/7Gf4wKH9zfZgL4pJGhSN/YqGhemz9URAkpdHObWQKBgQDzgu4xxjrDv5+cHr8/\n8SwYOMZMMHRR1b8Hl9t8e258qTR1ZsAJWNdxQy912C9awOi+2IkJKQyabbA0lqCj\n7gm6PdHmsFK/QU9JFJagx9MkiT2TILTnf/oBhLkP5byQscu/qgOE2gEU+ABL2DUo\neeFupkP6CvV0p0iPNhZ0p/SJkwKBgQDupil0O1ssqQheiXZ/zipCPmQpkPDb/GNf\nJ1PAnYTMnHJh5vYzYnKPOeilESi99UtS/DAvr0DnF8DCRp+AdADnFgQy0d/N+1Db\nKaUkWoRSnH5RXKoz2WguBmiUE0kYC9L7A3xUT4AXEd9IIWVTGjNApa54pYDeKWje\nO9RbaRWuWQKBgDwKeW6eYNjpA5K75g3/Cg9C2GnqvJN872gQ4lZUHM7x7XRRDGKB\nnEVZ+nbFAhAPZpO/0jIHBAuDpiGhTiR9Sbq5CWsm6JAtqz3qrKUiAAaPLDZ9pv05\nicwcDIFF9PN8Uy+D3PBBzGh+KZyJx7meK55bsoEReKn1oSdmf6ztyJavAoGBAIy4\nRfFXnqdy9JBqFgm+k4SELaOk56GP7TiKhAQr3caY6Yl5GuupvUtfJiNPPurj3QqN\n0gwMFwUtKGhmJF8mB/I7NTaSMpnO+xqAL/SDu0rLJGDtdx8jrx6UgM3voUYgksOY\nhpNgXXM9AqARsSGTbW1NRNe3H4ngeQmx1cIg8LvhAoGAAXhyLKUf6G52Zh+5V1Hu\nj3+xk4OuHnxQrgCAiznyIg+DNGQo6VosTjdVZQeOTMF5SOYjLFCyb96rwwZ+MdOp\nzjbdGhdZY+2tr3TTuLzTgqaevcxkwow7qxQyl9fTwX/6Q3G4Udj6OCPFg/ia/pZf\nTEW+TNsBAoS7wuQfeM0O7sk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@heroic-outpost-457013-h5.iam.gserviceaccount.com",
+  "client_id": "108077664267103250429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40heroic-outpost-457013-h5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
